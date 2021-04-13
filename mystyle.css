@@ -3,10 +3,23 @@ body {
 }
 
 h1 {
+  text-shadow: 2px 2px #0033cc;
   color: #6666ff;
   margin-left: 20px;
+  background: #ff66ff;
+  border: 150px #9933ff;
 }
 p {
   color: #ff99cc;
   margin-left: 20px;
+}
+
+div {
+  width: 300px;
+  border: 150px #ff9999;
+  padding: 50px;
+  margin: 20px;
+}
+div {
+    background: linear-gradient(to bottom, #ff66ff 0%, #9933ff 100%);
 }
